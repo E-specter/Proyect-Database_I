@@ -22,17 +22,41 @@
     </LogicalFolder>
     <LogicalFolder Name="Consultas" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="Creación.sql">
+        <FileNode Name="1. Creación.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ESPECTER\EDSQL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ESPECTER\EDSQL</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Creación.sql</FullPath>
+          <FullPath>1. Creación.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="2. Datos de prueba.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ESPECTER\EDSQL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ESPECTER\EDSQL</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>2. Datos de prueba.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3. Roles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ESPECTER\EDSQL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ESPECTER\EDSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3. Roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4. FyPA Administrador.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ESPECTER\EDSQL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ESPECTER\EDSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4. FyPA Administrador.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4. FyPA Estudiante.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ESPECTER\EDSQL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ESPECTER\EDSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4. FyPA Estudiante.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4. FyPA Profesor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ESPECTER\EDSQL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ESPECTER\EDSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4. FyPA Profesor.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
